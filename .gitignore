@@ -26,3 +26,5 @@
 *.exe
 *.out
 *.app
+/.vs/huelib/v14/.suo
+/huelib.sln
